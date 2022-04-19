@@ -1,0 +1,26 @@
+{
+    "Status": 200,
+    "Object": [{
+        "Player": {
+            "img": "http://sportsmatch.com.br/teste/img.jpg",
+            "name": "Usuário de Teste",
+            "percentual": 59.193163771924,
+            "pos": "Atacante",
+            "country": "Alemanha",
+            "Barras": {
+                "Copas_do_Mundo_Vencidas": {
+                    "max": 3.0,
+                    "pla": 1.0,
+                    "pos": 18
+                },
+                "Copas_do_Mundo_Disputadas": {
+                    "max": 5.0,
+                    "pla": 4.0,
+                    "pos": 2
+                }
+            }
+        }
+    }]
+}
+
+
